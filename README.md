@@ -1,2 +1,2 @@
 # vim-prism
-Vim prism higlighter
+Vim prism highlighter
